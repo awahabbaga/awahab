@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Inventaire
+comment0.text=\n\ CopyOfInventaire\ \:\ contient\ toutes\ les\ informations\ sur\ le\ nombre\ de\ voitures\n\ disponibles\ pour\ la\ location\ et\ sur\ le\ nombre\ de\ voitures\ d\u00E9j\u00E0\ lou\u00E9es.\n\n\ @author\ Abdoul\ Wahab\ Bagayoko\n\ @version\ 20-04-2020\n\n
+comment1.params=
+comment1.target=int\ taille()
+comment2.params=nomFichier
+comment2.target=void\ lire(java.lang.String)
+comment2.text=\n\ Lire\ les\ donn\u00E9es\ sur\ le\ nombre\ de\ voitures\ disponibles\ pour\ la\ location\ et\n\ sur\ le\ nombre\ de\ voitures\ d\u00E9j\u00E0\ lou\u00E9es\ \u00E0\ partir\ du\ fichier\ InventairePneus.txt.\n\ Ces\ donn\u00E9es\ seront\ transf\u00E9r\u00E9es\ du\ fichier\ vers\ le\ tableau.\n
+comment3.params=nomFichier
+comment3.target=void\ ecrire(java.lang.String)
+comment3.text=\n\ \u00C9crire\ les\ donn\u00E9es\ sur\ le\ nombre\ de\ voitures\ disponibles\ pour\ la\ location\ et\n\ sur\ le\ nombre\ de\ voitures\ d\u00E9j\u00E0\ lou\u00E9es\ dans\ le\ fichier\ InventairePneus.txt.\n\ Ces\ donn\u00E9es\ seront\ transf\u00E9r\u00E9es\ du\ tableau\ vers\ le\ fichier.\n
+comment4.params=nomFichier\ ligne
+comment4.target=void\ ecrire(java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=void\ afficher()
+numComments=6

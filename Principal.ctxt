@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Principal
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ M\u00E9thode\ main\n\n\ @param\ args\ Un\ param\u00E8tre\n
+comment2.params=nom
+comment2.target=boolean\ validerNom(java.lang.String)
+comment3.params=type
+comment3.target=java.lang.String\ saisirNom(java.lang.String)
+comment4.params=
+comment4.target=void\ afficherMessageBienvennu()
+comment4.text=\n\ M\u00E9thode\ afficherMessageBienvennu\n\n
+comment5.params=menuString
+comment5.target=void\ afficherMenus(java.lang.String)
+comment5.text=\n\ M\u00E9thode\ afficherMenus\n\n\ @param\ menuString\ Un\ param\u00E8tre\n
+comment6.params=min\ max
+comment6.target=int\ saisirValiderOption(int,\ int)
+comment6.text=\n\ M\u00E9thode\ saisirValiderOption\n\n\ @param\ min\ Un\ param\u00E8tre\n\ @param\ max\ Un\ param\u00E8tre\n\ @return\ La\ valeur\ de\ retour\n
+comment7.params=
+comment7.target=int\ saisirNombre()
+numComments=8

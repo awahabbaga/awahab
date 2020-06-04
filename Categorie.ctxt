@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Categorie
+comment1.params=nom\ nombreProduits
+comment1.target=Categorie(java.lang.String,\ int)
+comment1.text=\n\ Categorie\ Constructeur\n\n\ @param\ nom\ Un\ param\u00E8tre\n\ @param\ nombre\ Un\ param\u00E8tre\n
+comment2.params=nom
+comment2.target=void\ setNom(java.lang.String)
+comment2.text=\n\ M\u00E9thode\ setNom\n\n\ @param\ nom\ Un\ param\u00E8tre\n
+comment3.params=nombreProduits
+comment3.target=void\ setNombreProduits(int)
+comment3.text=\n\ M\u00E9thode\ setNombreProduits\n\n\ @param\ nombreProduits\ Un\ param\u00E8tre\n
+comment4.params=
+comment4.target=java.lang.String\ getNom()
+comment4.text=\n\ M\u00E9thode\ getNom\n\n\ @return\ La\ valeur\ de\ retour\n
+comment5.params=
+comment5.target=int\ getNombreProduits()
+comment5.text=\n\ M\u00E9thode\ getNombreProduits\n\n\ @return\ La\ valeur\ de\ retour\n
+comment6.params=
+comment6.target=java.lang.String\ formatter()
+numComments=7
